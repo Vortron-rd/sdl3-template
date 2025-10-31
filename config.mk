@@ -9,7 +9,7 @@ MANPREFIX = ${PREFIX}/share/man
 
 # includes and libs
 INCS =
-LIBS = 
+LIBS = -lm -lSDL3 -lSDL3_image -lSDL3_ttf 
 
 # flags
 CPPFLAGS =  -DVERSION=\"${VERSION}\"
