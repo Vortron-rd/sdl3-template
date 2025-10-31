@@ -1,4 +1,3 @@
-# c-template
-A template for my C programs. 
+# A template for SDL3 programs
 
-I was heavily inspired by https://suckless.org 's style in making Makefiles.
+Based off of my earlier C template, this template has increased functionality for sdl3
